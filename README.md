@@ -1,2 +1,3 @@
-# c-lang
-嵌入式学习第一阶段C语言项目
+# Supermarket shopping settlement system
+Embedded Learning Phase 1 C Language Project
+Supermarket shopping settlement system
